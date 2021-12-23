@@ -2,3 +2,12 @@
 .h1 head{
  background-image: url("./images/pattern.webp");
 }
+#brushes{
+ background-color: lightgreen;
+}
+#frames{
+ background-color: lightred;
+}
+#paint{
+ background-color: lightred;
+}
